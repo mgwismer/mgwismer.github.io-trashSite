@@ -3,6 +3,6 @@ course at 1601 Cherry St. in Philadelphia. In addition to making a functioning
 website while collaborating with other developers, the intent was to create a site 
 using media queries to elegantly resize the site for mutltiple screen sizes. We hope you enjoy the whimsy and the ideas herein.
 
-Margaret Wismer
-Colin Arpe
-Eric Falchier
+Margaret Wismer <br>
+Colin Arpe <br>
+Eric Falchier <br>
