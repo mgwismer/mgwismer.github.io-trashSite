@@ -1,0 +1,197 @@
+
+@media all and (max-width:480px)
+{
+  .info_main {
+  	display: none;
+  	background-image: none;
+  }
+
+  .banner {
+  	background-image: none;
+  }
+
+  .front_main {
+  	background-image: none;
+  }
+
+  .about_main{
+  	display: none;
+  	background-image: none;
+  }
+
+  .nav-menu-item {
+  	display: block;
+  }  
+
+body	{
+	font-family: Helvetica, sans-serif;
+	background-color: #c9eda3;
+	width: 350px;
+	margin: 0 auto;
+}
+
+
+.nav-menu	{
+	color: #203d00;
+	background-color: #c9eda3;
+	font-weight: bold;
+	font-size: 12px;
+	width: 100%;
+	padding: 5px 0;
+	margin: 0 auto;
+}
+
+
+.nav-menu-item	{
+	list-style-type: none;
+	padding: 5px 10px;
+	display: block;
+	text-align: center;
+}
+
+
+.nav-menu-link	{
+	color: #203d00;
+	text-decoration: none;
+}
+
+
+.link-bar	{
+	position: fixed;
+	top: 290px;
+	left: 10px;
+	width: 30px;
+	height: 1000px;
+	margin: 0 auto;
+}
+
+
+.link-bar-icon	{
+	width: 25px;
+	height: 25px;
+	padding-bottom: 5px;
+}
+
+
+.donate-button	{
+	position: fixed;
+	top: 10px;
+	right: 10px;
+	background-color: red;
+}
+
+
+.donate-text	{
+	color: #203d00;
+	padding: 5px 10px;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+
+
+
+.about_main {
+	background-image: url("http://deltonafl.gov/Pages/DeltonaFL_Depts/DeltonaFL_SolidWaste/0171E88B-000F8513.27/DSC_0177.jpg");
+	background-size: 100% 100%;
+	width: 100%;
+	height: 250px;
+	border: 1px solid #203D00;
+}
+
+
+.about_main_text {
+	text-shadow: 2px 2px #203D00;
+	text-align: center;
+}
+
+
+.about_about {
+	border: none;
+}
+
+
+.about_category {
+	border: none;
+}
+
+
+.about_category_no_right_border {
+}
+
+
+.about_about h1 {
+	text-shadow: 2px 2px #203D00;
+}
+
+
+.about_location h1 {
+	text-shadow: 2px 2px #203D00;
+}
+
+
+.about_work h1 {
+	text-shadow: 2px 2px #203D00;
+}
+
+.info_top_container h1 {
+	text-shadow: 2px 2px #203D00;
+}
+
+.info_top_container p {
+	color: #203D00;
+	padding: 5px;
+}
+
+.info_main {
+	background-image: url("Images/photo1.jpg");
+	background-size: 100% 100%;
+	width: 100%;
+	height: 250px;
+}
+
+.info_main_text {
+	display: none;
+}
+
+
+.info_category {
+	color: white;
+	border: none;
+}
+
+
+.no_right_border {
+	border-right: none;
+}
+
+
+.info_list ul {
+    display: none;
+}
+
+
+.info_list h1 {
+   display: none;
+}
+
+
+.info_list li {
+   display: none;
+}
+
+
+.idea_list {
+   background-color: yellow;
+}
+.idea_list li {
+   color: #65c400;
+}
+
+
+.button_type {
+  background-color: yellow;
+  font-size: 10px;
+  margin: 2px;
+}
+}
