@@ -6,3 +6,7 @@ using media queries to elegantly resize the site for mutltiple screen sizes. We 
 Margaret Wismer <br>
 Colin Arpe <br>
 Eric Falchier <br>
+
+See the site live <br>
+
+https://mgwismer.github.io/trashSite/AboutTrash.html
