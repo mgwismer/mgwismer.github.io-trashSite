@@ -9,4 +9,4 @@ Eric Falchier <br>
 
 See the site live <br>
 
-https://mgwismer.github.io/trashSite/AboutTrash.html
+https://mgwismer.github.io/mgwismer.github.io-trashSite/
